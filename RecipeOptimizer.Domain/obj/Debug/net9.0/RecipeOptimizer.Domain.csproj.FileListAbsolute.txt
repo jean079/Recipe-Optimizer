@@ -1,0 +1,11 @@
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Domain\bin\Debug\net9.0\RecipeOptimizer.Domain.deps.json
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Domain\bin\Debug\net9.0\RecipeOptimizer.Domain.dll
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Domain\bin\Debug\net9.0\RecipeOptimizer.Domain.pdb
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Domain\obj\Debug\net9.0\RecipeOptimizer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Domain\obj\Debug\net9.0\RecipeOptimizer.Domain.AssemblyInfoInputs.cache
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Domain\obj\Debug\net9.0\RecipeOptimizer.Domain.AssemblyInfo.cs
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Domain\obj\Debug\net9.0\RecipeOptimizer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Domain\obj\Debug\net9.0\RecipeOptimizer.Domain.dll
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Domain\obj\Debug\net9.0\refint\RecipeOptimizer.Domain.dll
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Domain\obj\Debug\net9.0\RecipeOptimizer.Domain.pdb
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Domain\obj\Debug\net9.0\ref\RecipeOptimizer.Domain.dll

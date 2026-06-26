@@ -1,0 +1,15 @@
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Infrastructure\bin\Debug\net9.0\RecipeOptimizer.Infrastructure.deps.json
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Infrastructure\bin\Debug\net9.0\RecipeOptimizer.Infrastructure.dll
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Infrastructure\bin\Debug\net9.0\RecipeOptimizer.Infrastructure.pdb
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Infrastructure\bin\Debug\net9.0\RecipeOptimizer.Domain.dll
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Infrastructure\bin\Debug\net9.0\RecipeOptimizer.Domain.pdb
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Infrastructure\obj\Debug\net9.0\RecipeOptimizer.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Infrastructure\obj\Debug\net9.0\RecipeOptimizer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Infrastructure\obj\Debug\net9.0\RecipeOptimizer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Infrastructure\obj\Debug\net9.0\RecipeOptimizer.Infrastructure.AssemblyInfo.cs
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Infrastructure\obj\Debug\net9.0\RecipeOptimizer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Infrastructure\obj\Debug\net9.0\RecipeOp.69BE498F.Up2Date
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Infrastructure\obj\Debug\net9.0\RecipeOptimizer.Infrastructure.dll
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Infrastructure\obj\Debug\net9.0\refint\RecipeOptimizer.Infrastructure.dll
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Infrastructure\obj\Debug\net9.0\RecipeOptimizer.Infrastructure.pdb
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Infrastructure\obj\Debug\net9.0\ref\RecipeOptimizer.Infrastructure.dll

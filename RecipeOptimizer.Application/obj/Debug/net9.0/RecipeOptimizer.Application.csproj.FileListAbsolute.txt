@@ -1,0 +1,17 @@
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Application\bin\Debug\net9.0\RecipeOptimizer.Application.deps.json
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Application\bin\Debug\net9.0\RecipeOptimizer.Application.dll
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Application\bin\Debug\net9.0\RecipeOptimizer.Application.pdb
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Application\bin\Debug\net9.0\RecipeOptimizer.Domain.dll
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Application\bin\Debug\net9.0\RecipeOptimizer.Infrastructure.dll
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Application\bin\Debug\net9.0\RecipeOptimizer.Domain.pdb
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Application\bin\Debug\net9.0\RecipeOptimizer.Infrastructure.pdb
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Application\obj\Debug\net9.0\RecipeOptimizer.Application.csproj.AssemblyReference.cache
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Application\obj\Debug\net9.0\RecipeOptimizer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Application\obj\Debug\net9.0\RecipeOptimizer.Application.AssemblyInfoInputs.cache
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Application\obj\Debug\net9.0\RecipeOptimizer.Application.AssemblyInfo.cs
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Application\obj\Debug\net9.0\RecipeOptimizer.Application.csproj.CoreCompileInputs.cache
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Application\obj\Debug\net9.0\RecipeOp.916929AD.Up2Date
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Application\obj\Debug\net9.0\RecipeOptimizer.Application.dll
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Application\obj\Debug\net9.0\refint\RecipeOptimizer.Application.dll
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Application\obj\Debug\net9.0\RecipeOptimizer.Application.pdb
+C:\Users\vissi\projects\RecipeOptimizer\RecipeOptimizer.Application\obj\Debug\net9.0\ref\RecipeOptimizer.Application.dll
